@@ -1,11 +1,4 @@
-% GlacierCTF 2023 PWN writeups
-% LosFuzzys
-% Date
-
-# GlacierCTF 2023 PWN writeups
-
-## WriteByteWhere
-
+## Writeup
 ### Description and Files
 ```
 One byte to rule them all
